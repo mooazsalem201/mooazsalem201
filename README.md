@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mooazsalem201
-- 👀 I’m interested in Cybersecurity,Embedded systems,and Networking,UI design
+- 👀 I’m interested in Cybersecurity,Web Development,and Networking
 - 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
