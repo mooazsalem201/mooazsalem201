@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mooazsalem201
-- 👀 I’m interested in Cybersecurity,Web Development,and Networking
-- 🌱 I’m currently learning Cybersecurity
+- 👀 I’m interested in Cybersecurity,Deep Learning,and Networking
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
